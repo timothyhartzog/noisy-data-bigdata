@@ -1,1 +1,1 @@
-Sitemap: https://hartzog-noise.netlify.app/sitemap.xml
+Sitemap: https://timothyhartzog.github.io/noisy-data-bigdata/sitemap.xml
