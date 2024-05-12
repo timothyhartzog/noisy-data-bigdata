@@ -1,0 +1,11 @@
+---
+title: "Creating the datasets"
+author: "Timothy H Hartzog"
+date: "2024-05-11"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+Will create datasets using standard R Programming functions.
+
+Will use a Random seed that is set at 369--a number Nicholas Tesla thought held the key to the Universe. [Nikola Tesla Wikipedia](https://en.wikipedia.org/wiki/Nikola_Tesla)

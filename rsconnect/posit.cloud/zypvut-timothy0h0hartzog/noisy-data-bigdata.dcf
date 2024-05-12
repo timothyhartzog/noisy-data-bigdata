@@ -1,0 +1,14 @@
+name: noisy-data-bigdata
+title: noisy-data-bigdata
+username: zypvut-timothy0h0hartzog
+account: zypvut-timothy0h0hartzog
+server: posit.cloud
+hostUrl: https://api.posit.cloud/v1
+appId: 8188404
+bundleId: 8605023
+url: https://posit.cloud/content/8188404
+version: 1
+quarto_version: 1.4.553
+quarto_engines: knitr, markdown
+asMultiple: FALSE
+asStatic: FALSE
