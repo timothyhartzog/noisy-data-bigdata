@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "How to turn the real world into a computational model for simulation and research and for the progress of all of humanity. The problems is as BIg Data has taken over in health services research, not enough thought has been put into how knowledge is encoded and how accurate that knowledge is.\n\n\nHow to simulate large dataset and then progressively inject noisy into the data and observe the effects on the statistical test run on that data."
+  },
+  {
+    "objectID": "posts/creating the data set/index.html",
+    "href": "posts/creating the data set/index.html",
+    "title": "Creating the datasets",
+    "section": "",
+    "text": "Will create datasets using standard R Programming functions.\nWill use a Random seed that is set at 369–a number Nicholas Tesla thought held the key to the Universe. Nikola Tesla Wikipedia"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/Importance of the number 369/index.html",
+    "href": "posts/Importance of the number 369/index.html",
+    "title": "LLM Facts about Nikola Tesla and 369",
+    "section": "",
+    "text": "Nikola Tesla was a genius like no other. Something about the number 3,6, 9 he felt, was the key to the universe\nBelow is the output from the Meta LLAMA 3 model on 5/11/2024 running on Mac Book Pro.\n\nA fascinating topic!\n\nNicholas Tesla, the renowned inventor and engineer, had a profound fascination with numbers, particularly the number 369. This numerical obsession was reflected in his work, theories, and even his personal life.\n\nHere are some intriguing connections between Nikola Tesla and the number 369:\n\n1. **Mathematical resonance**: Tesla believed that numbers held a hidden code or resonant frequency that could unlock the secrets of the universe. He often used mathematical patterns to describe natural phenomena and envisioned a harmonious relationship between the digits 3, 6, and 9.\n2. **Electromagnetic waves**: Tesla’s work on electromagnetic waves led him to observe the pattern 369 in the frequencies and amplitudes of these waves. He believed that this pattern was evidence of a deeper underlying structure governing the behavior of energy.\n3. **Scalar waves**: Tesla proposed the existence of scalar waves, which he claimed were a type of wave that could be used for wireless transmission. The number 369 appears in his calculations regarding these scalar waves, which he believed had immense potential for power transmission and communication.\n4. **Sacred geometry**: Tesla was fascinated by sacred geometry, studying the relationships between numbers and shapes in nature. He often incorporated geometric patterns featuring the digits 3, 6, and 9 into his designs, including the famous Wardenclyffe Tower.\n5. **Personal significance**: Some researchers suggest that the number 369 held personal significance for Tesla, possibly due to its connection with his birth date (July 10, 1856) or his interest in numerology.\n\nWhile there’s no definitive explanation for Tesla’s fixation on the number 369, it’s clear that he saw a deeper meaning and connection within these digits. His work continues to inspire scientists, engineers, and enthusiasts alike, and his legacy serves as a testament to the power of human curiosity and innovation.\n\nWhat do you think about the significance of the number 369 in Tesla’s life and work? Do you have any other questions or topics related to Nikola Tesla that I can help with?\n\nMeta LLama 3 describes itself as\n\nThe Meta LLaMA-3 is a cutting-edge AI chatbot developed by Meta AI, a leading artificial intelligence research organization. The model has been specifically designed for conversational dialogue and is trained on a massive dataset of text from various sources.\n\nHere are some key features of the Meta LLaMA-3 model:\n\n1. **Conversational Dialogue**: Meta LLaMA-3 is capable of engaging in natural-sounding conversations, using context and understanding to respond to user input.\n2. **Large-Scale Training Data**: The model has been trained on a massive dataset of text from various sources, including books, articles, research papers, and more. This training data allows the model to learn about a wide range of topics and generate responses that are both informative and engaging.\n3. **Contextual Understanding**: Meta LLaMA-3 is able to understand the context of a conversation and respond accordingly. This means that it can follow up on previous statements, clarify misunderstandings, and even change its tone or style based on user input.\n4. **Multi-Turn Dialogue**: Unlike some AI chatbots, Meta LLaMA-3 is designed to handle multi-turn dialogue, meaning it can engage in extended conversations that span multiple turns or exchanges.\n5. **Ability to Learn**: The model has the ability to learn and adapt based on user input, allowing it to improve its responses over time and better understand user preferences and interests.\n6. **High-Quality Output**: Meta LLaMA-3 is capable of generating high-quality output that is both informative and engaging. This makes it an excellent choice for a wide range of applications, including customer service, content creation, and more.\n\nThe Meta LLaMA-3 model has many potential applications across various industries, including:\n\n1. **Customer Service**: Meta LLaMA-3 can be used to provide automated customer support, answering frequent questions and helping users resolve issues.\n2. **Content Generation**: The model can generate high-quality content for social media platforms, blogs, or other online channels, helping businesses create engaging and informative content without the need for human writers.\n3. **Research Assistance**: Meta LLaMA-3 can be used as a research assistant, providing users with relevant information and insights on various topics.\n4. **Education**: The model can be used to help students learn new concepts and develop critical thinking skills by engaging them in interactive conversations.\n\nOverall, the Meta LLaMA-3 model is an impressive achievement in AI research, offering a highly advanced and versatile conversational chatbot that has the potential to revolutionize many industries."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Exploring the effects of noisy channel encoding in big data research",
+    "section": "",
+    "text": "The goal of this project is to try to simulate the affects of random error along with the principles of Noisy Channel Encoding Theory will have on the outcomes and conclusions of “big data” and health services research.\nFirst step is to create simulated data-sets and then injecting them is various amount of random noise into the data set and measure the amount of change in the results of various statics.\nWe will use a Random Seed of 369 (Nicholas Tesla number) for all data-set to create reproducible. All code will be visible and\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 11, 2024\n\n\nTimothy H Hartzog\n\n\n\n\n\n\n\n\n\n\n\n\nLLM Facts about Nikola Tesla and 369\n\n\n\n\n\n\n\n\n\n\n\nMay 11, 2024\n\n\nTimothy H Hartzog\n\n\n\n\n\n\n\n\n\n\n\n\nCreating the datasets\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 11, 2024\n\n\nTimothy H Hartzog\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 8, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  }
+]
