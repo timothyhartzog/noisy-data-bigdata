@@ -2,17 +2,18 @@ project:
   type: website
 
 website:
-  title: "noisy-data-bigdata"
+  title: "Effect of Noisy Encoding on Big Data and Health Services Research"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/timothyhartzog
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/timothyhartzog
+        
 format:
   html:
-    theme: cosmo
+    theme: zypher
     css: styles.css
 
 editor: visual

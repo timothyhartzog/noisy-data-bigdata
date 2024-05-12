@@ -5,7 +5,7 @@ date: "2024-05-11"
 image: "image.jpg"
 ---
 
-Nicholas Tesla was a genius like no other. Something about the number 3,6, he felt, was the key to the universe
+Nikola Tesla was a genius like no other. Something about the number 3,6, 9 he felt, was the key to the universe
 
 Below is the output from the Meta LLAMA 3 model on 5/11/2024 running on Mac Book Pro.
 

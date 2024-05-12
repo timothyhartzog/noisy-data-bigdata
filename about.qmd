@@ -6,14 +6,19 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/timothyhartzog
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://linkedin.com/in/timothy-hartzog
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://github.com/timothyhartzog
 ---
 
-About this blog
+::: {#overview}
+How to turn the real world into a computational model for simulation and research and for the progress of all of humanity. The problems is as BIg Data has taken over in health services research, not enough thought has been put into how knowledge is encoded and how accurate that knowledge is.
+:::
+
+::: {#overview2}
+How to simulate large dataset and then progressively inject noisy into the data and observe the effects on the statistical test run on that data.
+:::
